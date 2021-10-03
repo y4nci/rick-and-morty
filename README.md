@@ -7,4 +7,4 @@ Run the command below in the root directory of the project:
 ```bash
 flutter run --release
 ```
-# rick-and-morty
+## rick-and-morty
